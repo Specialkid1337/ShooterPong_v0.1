@@ -69,6 +69,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\PrimitivePlus\Scripts\PrimitivePlusEditor.cs" />
+    <Compile Include="Assets\Scripts\BallSpawner.cs" />
     <Compile Include="Assets\Scripts\BoxSpawner.cs" />
     <Compile Include="Assets\Scripts\ShooterPong\Paddle2Control.cs" />
     <Compile Include="Assets\Scripts\ShooterPong\PaddleControl.cs" />
